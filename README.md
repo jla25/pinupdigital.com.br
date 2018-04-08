@@ -1,3 +1,2 @@
-#Pinup Digital
-##Marketing online
-###Dev: Jorge López Arangua
+# Site Pinup Digital
+Marketing online

@@ -413,3 +413,13 @@ header.masthead p {
     font-size: 22px;
   }
 }
+.text-turqueza hr{
+  border-color: #0df2ff;
+}
+.text-turqueza h3{
+  color: #0df2ff !important;
+}
+.text-muted{
+  color: #27292b!important;
+  font-weight: 600;
+}
